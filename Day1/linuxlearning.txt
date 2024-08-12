@@ -1,1 +1,5 @@
+ls - list the files and directries
+mkidr - used to create directories in linux
+touch - it is used to create files in linux
+
 
